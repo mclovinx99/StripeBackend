@@ -1,0 +1,2 @@
+module.exports.stripe = require('stripe')('sk_test_51Oit8WSJSac01P1zZds5NdXOKEzCOFPMV2QLF6v2SZOeiZ8xRNiebnQFiEX3G2rxcgbwn8Tl6dLdwvSTsPjrCQGN00Nh40jsbq');
+module.exports.domain = 'http://localhost:300';
